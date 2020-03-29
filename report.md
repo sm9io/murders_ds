@@ -26,4 +26,4 @@ load("rda/murders.rda")
 We note the large state to state variability by generating a barplot
 showing the murder rate by state:
 
-![](pdf-report_files/figure-gfm/murder-rate-by-state-1.png)<!-- -->
+![](report_files/figure-gfm/murder-rate-by-state-1.png)<!-- -->
