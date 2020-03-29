@@ -2,7 +2,7 @@
 title: "US Gun Murders"
 author: "Subhendu Mahapatro"
 date: "29-03-2020"
-output: pdf_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
